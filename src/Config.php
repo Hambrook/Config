@@ -8,7 +8,7 @@ namespace Hambrook;
  * Easy-to-work-with config object that saves to a JSON file.
  *
  * @package    Config
- * @version    1.0.2
+ * @version    1.0.3
  * @author     Rick Hambrook <rick@rickhambrook.com>
  * @copyright  2015 Rick Hambrook
  * @license    https://www.gnu.org/licenses/gpl.txt  GNU General Public License v3
