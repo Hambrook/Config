@@ -2,7 +2,7 @@
 ######By Rick Hambrook
 -----
 
-A simple Config object that loads a JSON file and lets you access values without having to check if they're set first. Then automatically saves back to the JSON file when your script finishes. It inherits all the getting/setting abilities from `Nest`.
+A simple Config object that loads a JSON file and lets you access values without having to check if they're set first. Then automatically saves back to the JSON file when your script finishes. It inherits all the getting/setting abilities from [Nest](https://github.com/Hambrook/Nest).
 
 ##Example
 ```php
@@ -13,7 +13,7 @@ JSON File (settings.json)
 ```json
 {
 	"foo": "bar",
-	"one" {
+	"one": {
 		"two": "three"
 	}
 };
@@ -85,6 +85,7 @@ Tell me if you loved it. Tell me if you hated it. Tell me if you used it and tho
 * _If you have an idea, [let me know](mailto:rick@rickhambrook.com)._
 
 ##Changelog
+* `2015-06-17` fix(docs): fix JSON error in readme and link the Nest keyword
 * `2015-06-17` feat(docs): update docs formatting to include syntax highlighting on Github
 * `2015-06-16` feat(license): update license to GPLv3 and attach it properly
 * `2015-06-15` initial public release
