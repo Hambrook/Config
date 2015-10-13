@@ -6,7 +6,7 @@ A simple Config object that loads a JSON file and lets you access values without
 
 ##Example
 ```php
-$Config = new \Hambrook\Config("settings.json");
+$Config = new \Hambrook\Config\Config("settings.json");
 ```
 
 JSON File (settings.json)
