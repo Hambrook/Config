@@ -1,0 +1,22 @@
+{
+	"name": "hambrook/config",
+	"description": "Easy-to-work-with config object that saves to a JSON file.",
+	"license": "GPL-3.0",
+	"keywords": ["array", "json", "object", "php", "saving"],
+	"authors": [
+		{
+			"name": "Rick Hambrook",
+			"email": "rick@rickhambrook.com",
+			"homepage": "http://www.rickhambrook.com"
+		}
+	],
+	"require": {
+        "hambrook/nest": "*"
+	},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"Hambrook\\Config\\": "src"
+		}
+	}
+}

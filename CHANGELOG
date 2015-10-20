@@ -1,0 +1,5 @@
+2015-10-20 feat(docs): move changelog, update readme for better mobile viewing, and more
+2015-06-17 fix(docs): fix JSON error in readme and link the Nest keyword
+2015-06-17 feat(docs): update docs formatting to include syntax highlighting on Github
+2015-06-16 feat(license): update license to GPLv3 and attach it properly
+2015-06-15 initial public release
